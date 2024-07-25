@@ -1,3 +1,8 @@
+-- Task 1: Data Cleaning and Importing
+-- 1.Apply data cleaning methods to refine the dataset.
+-- 2.Import the cleaned data for analysis purposes.
+-- 3.Conduct Exploratory Data Analysis (EDA) and other analytical tasks on the imported dataset.
+
 -- Task 2: Exploratory Data Analysis
 -- 1.Summary of Active vs Closed Accounts:
 SELECT "ACCOUNT_STATUS", COUNT(*) AS Account_Count
